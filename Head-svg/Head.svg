@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:cc="http://creativecommons.org/ns#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+  xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+  id="svgHeadElement"
+  version="1.1"
+  sodipodi:docname="Head.svg"
+  width="1020"
+  height="580"
+  onload="console.info('onload');"
+  inkscape:version="0.91 r">
+ <title
+   id="title3475">Head-svg</title>
+ <defs
+   id="defs3513" />
+ <meta
+   name="viewport"
+   content="width=device-width, initial-scale=1.0, user-scalable=no"
+   id="meta2986" />
+ <animate
+   attributeType="CSS"
+   attributeName="opacity"
+   dur="1s"
+   from=".2"
+   to="1"
+   id="aniMator"
+   fill="freeze" />
+ <sodipodi:namedview
+   id="base"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageopacity="0.0"
+   inkscape:pageshadow="2"
+   inkscape:zoom="1"
+   inkscape:cx="417.69459"
+   inkscape:cy="246.61406"
+   inkscape:current-layer="Background"
+   inkscape:document-units="px"
+   showgrid="false"
+   inkscape:window-width="1280"
+   inkscape:window-height="773"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   fit-margin-top="3"
+   fit-margin-left="3"
+   fit-margin-right="3"
+   fit-margin-bottom="3" />
+ <metadata
+   id="metadata3846">
+  <rdf:RDF>
+   <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+      rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title>Head-svg</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g
+   inkscape:groupmode="layer"
+   id="Head"
+   inkscape:label="Head"
+   style="display:inline"
+   transform="translate(-40.738522,-59.61712)">
+  <foreignObject
+    id="ModernizrTestObject"
+    y="0"
+    x="0"
+    height="0"
+    width="0">
+   <xhtml:xhtml
+     class="no-js"
+     id="ModernizrTestHTML">
+    <xhtml:body
+      id="ModernizrTestBody">
+     <xhtml:input
+       id="ModernizrTestInput" />
+     <xhtml:style
+       id="smodernizr" />
+     <xhtml:modernizr
+       id="ModernizrTestELE" />
+     <xhtml:div
+       id="ModernizrTestDiv" />
+    </xhtml:body>
+   </xhtml:xhtml>
+  </foreignObject>
+  <script
+    xlink:href="head-svg.js"
+    id="Head.js"
+    type="application/ecmascript" />
+ </g>
+ <g
+   id="Background"
+   inkscape:label="Background"
+   inkscape:groupmode="layer"
+   style="display:inline"
+   transform="translate(-40.738522,-59.61712)">
+  <rect
+    style="color:#000000;fill:none;stroke:#780000;stroke-width:1.89999998;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+    id="rect6695"
+    width="1000"
+    height="570"
+    x="50.738522"
+    y="64.188553" />
+  <text
+    xml:space="preserve"
+    style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+    x="60.738525"
+    y="203.61713"
+    id="text3543"
+    sodipodi:linespacing="125%"><tspan
+     sodipodi:role="line"
+     id="tspan3545"
+     x="60.738525"
+     y="203.61713"
+     style="font-size:15px">Basic Head-svg.js embedded in an svg </tspan><tspan
+     sodipodi:role="line"
+     x="60.738525"
+     y="222.36713"
+     id="tspan3547"
+     style="font-size:15px">doc.</tspan><tspan
+     sodipodi:role="line"
+     x="60.738525"
+     y="241.11713"
+     id="tspan3576"
+     style="font-size:15px" /><tspan
+     sodipodi:role="line"
+     x="60.738525"
+     y="259.86713"
+     id="tspan3578"
+     style="font-size:15px">Usage example:</tspan><tspan
+     sodipodi:role="line"
+     x="60.738525"
+     y="278.61713"
+     id="tspan3580"
+     style="font-size:15px">var pauseBetweenLoads = 10;</tspan><tspan
+     sodipodi:role="line"
+     x="60.738525"
+     y="297.36713"
+     id="tspan3582"
+     style="font-size:15px">function doSomeLoading() {</tspan><tspan
+     sodipodi:role="line"
+     x="60.738525"
+     y="316.11713"
+     id="tspan3584"
+     style="font-size:15px"> head.load('aURL.js','aNotherURL.js',</tspan><tspan
+     sodipodi:role="line"
+     x="60.738525"
+     y="334.86713"
+     id="tspan3586"
+     style="font-size:15px"> function(){ console.info('readin doSomeLoading...'); setTimeout(function() { doSomeMoreloading();}, pauseBetweenLoads);});}</tspan><tspan
+     sodipodi:role="line"
+     x="60.738525"
+     y="353.61713"
+     style="font-size:15px"
+     id="tspan3596"></tspan><tspan
+     sodipodi:role="line"
+     x="60.738525"
+     y="372.36713"
+     style="font-size:15px"
+     id="tspan3602">function doSomeMoreloading() {</tspan><tspan
+     sodipodi:role="line"
+     x="60.738525"
+     y="391.11713"
+     id="tspan3590"
+     style="font-size:15px"> head.load('oneMoreURL.js','YetaNotherURL.js',</tspan><tspan
+     sodipodi:role="line"
+     x="60.738525"
+     y="409.86713"
+     id="tspan3592"
+     style="font-size:15px"> function(){ console.info('readin doSomeLoading...'); setTimeout(function() { bootApp();}, pauseBetweenLoads);});}</tspan><tspan
+     sodipodi:role="line"
+     x="60.738525"
+     y="428.61713"
+     id="tspan3553"
+     style="font-size:15px" /><tspan
+     sodipodi:role="line"
+     x="60.738525"
+     y="447.36713"
+     id="tspan3555"
+     style="font-size:15px">function bootApp() {</tspan><tspan
+     sodipodi:role="line"
+     x="60.738525"
+     y="466.11713"
+     style="font-size:15px"
+     id="tspan3604">console.info('bootApp....')}</tspan></text>
+ </g>
+</svg>
