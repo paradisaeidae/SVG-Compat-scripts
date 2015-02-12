@@ -178,7 +178,7 @@
      x="60.738525"
      y="409.86713"
      id="tspan3592"
-     style="font-size:15px"> function(){ console.info('readin doSomeLoading...'); setTimeout(function() { bootApp();}, pauseBetweenLoads);});}</tspan><tspan
+     style="font-size:15px"> function(){ console.info('readin doSomeMoreloading...'); setTimeout(function() { bootApp();}, pauseBetweenLoads);});}</tspan><tspan
      sodipodi:role="line"
      x="60.738525"
      y="428.61713"
