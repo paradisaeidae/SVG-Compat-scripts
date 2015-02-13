@@ -72,32 +72,10 @@
    inkscape:label="Head"
    style="display:inline"
    transform="translate(-40.738522,-59.61712)">
-  <foreignObject
-    id="ModernizrTestObject"
-    y="0"
-    x="0"
-    height="0"
-    width="0">
-   <xhtml:xhtml
-     class="no-js"
-     id="ModernizrTestHTML">
-    <xhtml:body
-      id="ModernizrTestBody">
-     <xhtml:input
-       id="ModernizrTestInput" />
-     <xhtml:style
-       id="smodernizr" />
-     <xhtml:modernizr
-       id="ModernizrTestELE" />
-     <xhtml:div
-       id="ModernizrTestDiv" />
-    </xhtml:body>
-   </xhtml:xhtml>
-  </foreignObject>
   <script
     xlink:href="head-svg.js"
     type="application/ecmascript"
-    id="Head.js" />
+    id="head-svg.js" />
  </g>
  <g
    id="Background"
