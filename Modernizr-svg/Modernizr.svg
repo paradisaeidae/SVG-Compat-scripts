@@ -39,10 +39,10 @@
    borderopacity="1.0"
    inkscape:pageopacity="0.0"
    inkscape:pageshadow="2"
-   inkscape:zoom="1.1503906"
-   inkscape:cx="796.45005"
-   inkscape:cy="94.527537"
-   inkscape:current-layer="svgHeadElement"
+   inkscape:zoom="0.5751953"
+   inkscape:cx="342.50137"
+   inkscape:cy="242.94999"
+   inkscape:current-layer="Background"
    inkscape:document-units="px"
    showgrid="false"
    inkscape:window-width="1280"
@@ -96,8 +96,8 @@
   </foreignObject>
   <script
     xlink:href="modernizr-svg-2.8.3.js"
-    id="Modernizr.js"
-    type="application/ecmascript" />
+    type="application/ecmascript"
+    id="Modernizr.js" />
  </g>
  <g
    id="Background"
@@ -115,33 +115,49 @@
   <text
     xml:space="preserve"
     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-    x="174.73853"
-    y="223.61713"
+    x="303.39047"
+    y="246.21814"
     id="text3543"
     sodipodi:linespacing="125%"><tspan
      sodipodi:role="line"
      id="tspan3545"
-     x="174.73853"
-     y="223.61713">Basic Modernizr embedded in an svg </tspan><tspan
+     x="303.39047"
+     y="246.21814"
+     style="font-size:25px">Basic Modernizr embedded in an svg </tspan><tspan
      sodipodi:role="line"
-     x="174.73853"
-     y="273.61713"
-     id="tspan3547">doc.</tspan><tspan
+     x="303.39047"
+     y="277.46814"
+     id="tspan3547"
+     style="font-size:25px">doc.</tspan><tspan
      sodipodi:role="line"
-     x="174.73853"
-     y="323.61713"
-     id="tspan3549">No polyfill. No yepNope.</tspan><tspan
+     x="303.39047"
+     y="308.71814"
+     id="tspan3549"
+     style="font-size:25px">No polyfill. No yepNope.</tspan><tspan
      sodipodi:role="line"
-     x="174.73853"
-     y="373.61713"
-     id="tspan3551">Modernizr 2.8.3 version based.</tspan><tspan
+     x="303.39047"
+     y="339.96814"
+     id="tspan3551"
+     style="font-size:25px">Modernizr 2.8.3 version based.</tspan><tspan
      sodipodi:role="line"
-     x="174.73853"
-     y="423.61713"
-     id="tspan3553">Not yet explored Modernizr 3.0.</tspan><tspan
+     x="303.39047"
+     y="371.21814"
+     id="tspan3553"
+     style="font-size:25px">Not yet explored Modernizr 3.0.</tspan><tspan
      sodipodi:role="line"
-     x="174.73853"
-     y="473.61713"
-     id="tspan3555" /></text>
+     x="303.39047"
+     y="402.46814"
+     id="tspan3555"
+     style="font-size:25px">Even though it's in an svg doc, the </tspan><tspan
+     sodipodi:role="line"
+     x="303.39047"
+     y="433.71814"
+     id="tspan3911"
+     style="font-size:25px">results are the original html oriented</tspan><tspan
+     sodipodi:role="line"
+     x="303.39047"
+     y="464.96814"
+     id="tspan3913"
+     style="font-size:25px">indicators.</tspan></text>
  </g>
 </svg>
